@@ -1,0 +1,23 @@
+{
+  "name": "design_patterns_in_typescript",
+  "version": "1.0.0",
+  "description": "Here are the implementations of the following design patterns in TypeScript:",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ync-typescript/design_patterns_in_typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ync-typescript/design_patterns_in_typescript/issues"
+  },
+  "homepage": "https://github.com/ync-typescript/design_patterns_in_typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
